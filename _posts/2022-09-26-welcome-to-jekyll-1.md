@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  gal指引.LHB.1
+title: 导航站
 date:   2022-09-30 07:22:13 +0800
 categories: jekyll update
 ---
