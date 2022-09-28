@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  gal指引.LHB.1
+title:  下载
 date:   2022-09-27 07:22:13 +0800
 categories: jekyll update
  
