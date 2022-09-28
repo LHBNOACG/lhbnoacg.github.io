@@ -2,7 +2,7 @@
 layout: post
 title: 导航站
 date:   2022-09-30 07:22:13 +0800
-categories: jekyll update
+categories: 6518
 ---
 # 一，导航站：
 >每个新人入坑的第一步
