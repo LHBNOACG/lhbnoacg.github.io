@@ -19,5 +19,5 @@ categories: jekyll update
 4.直接找浩斌，他手上有一堆奇奇怪怪的群。
 
 
-![vefva](https://i0.hdslb.com/bfs/new_dyn/10ca094430da230274e7f7ac0eadc5fa292063385.png@312w_312h_1e_1c.webp)
+![vefva](https://raw.githubusercontent.com/LHBNOACG/lhbnoacg.github.io/main/pictures/%E5%9B%BE%E7%89%875.png)
 
