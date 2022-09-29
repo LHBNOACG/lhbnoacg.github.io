@@ -59,4 +59,4 @@ categories: jekyll update
 >什么都有什么都全，攻略，资源，大佬，交流平台，免费的3A游戏……
 （现在基本住在gal汉化区）
 
-![nenvo](https://i0.hdslb.com/bfs/new_dyn/c19dd2d936ce89f22a8ba353bc4c080a292063385.jpg@1554w.webp)
+![nenvo](https://raw.githubusercontent.com/LHBNOACG/lhbnoacg.github.io/main/pictures/%E5%9B%BE%E7%89%876.jpg)
