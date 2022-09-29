@@ -16,4 +16,5 @@ categories: jekyll update
 >4.Bilibili博主，那种新作速递的基本都没什么问题
 还有几个博主我非常喜欢：***黑桃Q，茵夏，gil，昨夜梦中***
 他们的想法我都比较欣赏，真的是B站所剩不多的我很在意的
-![vnuweivb](https://i0.hdslb.com/bfs/new_dyn/7d1beaafe085558cd9e7d4d848f69cb1292063385.jpg@1554w.webp)
+
+![vnuweivb](https://raw.githubusercontent.com/LHBNOACG/lhbnoacg.github.io/main/pictures/%E5%9B%BE%E7%89%871.jpg)
