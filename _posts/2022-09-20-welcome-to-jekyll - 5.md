@@ -9,3 +9,5 @@ categories: jekyll update
 
 ---
 因为时间原因，一些入坑的注意事项和技巧这里列举了不到1/5，需要我再去吧里找找
+
+![16186](https://raw.githubusercontent.com/LHBNOACG/lhbnoacg.github.io/main/pictures/%E5%9B%BE%E7%89%872.jpg)
