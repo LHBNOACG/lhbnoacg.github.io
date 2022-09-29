@@ -18,4 +18,5 @@ categories: jekyll update
 5.**所有**汉化均是免费，收费的就是骗子
 
 6.能去资源站就不去百度，新手千万不要去百度
-![gewg]([https://i0.hdslb.com/bfs/new_dyn/25b3af543aeb60bf36ca6c0094981436292063385.jpg@312w_312h_1e_1c.webp](https://raw.githubusercontent.com/LHBNOACG/lhbnoacg.github.io/main/pictures/%E5%9B%BE%E7%89%873.jpg))
+
+![gewg](https://raw.githubusercontent.com/LHBNOACG/lhbnoacg.github.io/main/pictures/%E5%9B%BE%E7%89%873.jpg)
